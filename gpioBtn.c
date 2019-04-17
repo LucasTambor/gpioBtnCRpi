@@ -1,3 +1,9 @@
+/*
+ *  UNISAL 2019 - Sistemas Operacionais Embarcados - Linux Embarcado
+ *  Atividade - Controle de GPIO via Sysfs
+ *  Lucas Tamborrino
+ */
+
 #include <stdio.h>
 #include <time.h>
 #include <signal.h>
