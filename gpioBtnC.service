@@ -1,0 +1,8 @@
+[Unit]
+Description=C GPIO BTN APP
+
+[Service]
+ExecStart=/home/pi/unisal/atividades/gpioBtnC/gpioBtn 
+
+[Install]
+WantedBy=multi-user.target
